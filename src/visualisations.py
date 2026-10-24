@@ -79,12 +79,15 @@ def plot_category_mix(cat_df: pd.DataFrame) -> go.Figure:
         hovertemplate="<b>%{label}</b><br>Revenue: $%{value:,.2f}<br>Share: %{percent}<extra></extra>"
     )])
 
-    fig.update_layout(
+    custom_layout = {
         **BASE_LAYOUT,
-        title=dict(text="<b>Revenue Share by Category</b>", font=dict(size=15)),
-        showlegend=False,
-        height=350,
-        margin=dict(l=20, r=20, t=50, b=20)
+        "margin": dict(l=20, r=20, t=50, b=20),
+        "showlegend": False,
+        "height": 350
+    }
+    fig.update_layout(
+        custom_layout,
+        title=dict(text="<b>Revenue Share by Category</b>", font=dict(size=15))
     )
     return fig
 

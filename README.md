@@ -3,7 +3,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit 1.50](https://img.shields.io/badge/streamlit-1.50.0-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tests: 25 Passed](https://img.shields.io/badge/tests-25%20passed-success.svg)](tests/)
+[![Tests: 26 Passed](https://img.shields.io/badge/tests-26%20passed-success.svg)](tests/)
 [![Architecture: SaaS Grade](https://img.shields.io/badge/architecture-modular-indigo.svg)](docs/architecture.md)
 [![Methodology: Fully Documented](https://img.shields.io/badge/methodology-rigorous-teal.svg)](docs/methodology.md)
 
