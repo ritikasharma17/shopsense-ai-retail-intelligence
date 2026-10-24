@@ -1,0 +1,11 @@
+date,order_id,product_id,product_name,category,unit_price,unit_cost,quantity,discount_amount,sales_channel,current_stock,lead_time_days,supplier_name
+2024-01-01,ORD-10001,COF-001,Organic French Roast Coffee (340g),Specialty Coffee & Pantry,16.5,8.25,1,0.0,In-Store,22,10,Pacific Roasters Co.
+2024-01-01,ORD-10002,COF-001,Organic French Roast Coffee (340g),Specialty Coffee & Pantry,16.5,8.25,1,0.0,In-Store,22,10,Pacific Roasters Co.
+2024-01-01,ORD-10003,COF-001,Organic French Roast Coffee (340g),Specialty Coffee & Pantry,16.5,8.25,2,0.0,Click & Collect,22,10,Pacific Roasters Co.
+2024-01-01,ORD-10004,COF-001,Organic French Roast Coffee (340g),Specialty Coffee & Pantry,16.5,8.25,1,0.0,In-Store,22,10,Pacific Roasters Co.
+2024-01-01,ORD-10005,COF-002,Single Origin Ethiopian Guji (340g),Specialty Coffee & Pantry,19.0,10.5,3,2.85,Click & Collect,48,14,Pacific Roasters Co.
+2024-01-01,ORD-10006,COF-003,Cold Brew Glass Infuser Bottle,Specialty Coffee & Pantry,28.0,11.2,1,0.0,Click & Collect,35,21,Artisan Ware Inc.
+2024-01-01,ORD-10007,HOM-001,Hand-Thrown Ceramic Mug (12oz),Home & Living,24.0,8.5,1,0.0,Click & Collect,18,15,Stone & Kiln Studio
+2024-01-01,ORD-10008,HOM-001,Hand-Thrown Ceramic Mug (12oz),Home & Living,24.0,8.5,1,0.0,In-Store,18,15,Stone & Kiln Studio
+2024-01-01,ORD-10009,HOM-002,Lavender & Cedar Soy Candle,Home & Living,22.0,6.5,2,0.0,Online,72,10,North Light Candle Co.
+2024-01-01,ORD-10010,HOM-002,Lavender & Cedar Soy Candle,Home & Living,22.0,6.5,1,0.0,Online,72,10,North Light Candle Co.
